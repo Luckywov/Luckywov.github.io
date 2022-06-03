@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lukcywov.github.io</id>
     <title>Gridea</title>
-    <updated>2022-06-03T00:59:26.056Z</updated>
+    <updated>2022-06-03T03:16:24.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lukcywov.github.io"/>
     <link rel="self" href="https://lukcywov.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://lukcywov.github.io/images/avatar.png</logo>
     <icon>https://lukcywov.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2019.10.23 星期三 天气阴]]></title>
+        <id>https://lukcywov.github.io/post/20191023-xing-qi-san-tian-qi-yin/</id>
+        <link href="https://lukcywov.github.io/post/20191023-xing-qi-san-tian-qi-yin/">
+        </link>
+        <updated>2022-06-03T01:07:04.000Z</updated>
+        <content type="html"><![CDATA[<p>这有啥启发的，啥事都用心去做，大抉择不畏惧，小选择不出错，有胆识有眼界，能坚持能刻苦，有信仰有目标，能克己能自律。<br>
+看个人选择的，能阻止自己变得平庸的人只能是自己。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[那旅行者]]></title>
         <id>https://lukcywov.github.io/post/na-lu-xing-zhe/</id>
